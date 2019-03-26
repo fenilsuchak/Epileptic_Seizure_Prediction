@@ -1,6 +1,4 @@
 # coding: utf-8
-__author__ = 'ZFTurbo: https://kaggle.com/zfturbo'
-
 import datetime
 import pandas as pd
 import numpy as np
